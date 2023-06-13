@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.author       = { "Mike Enriquez" => "mike@enriquez.me" }
   s.source       = { :git => "https://github.com/faimin/ECSlidingViewController.git", :tag => s.version.to_s }
 
-  s.platform     = :ios, '7.0'
+  s.platform     = :ios, '10.0'
   s.requires_arc = true
 
   s.source_files = 'ECSlidingViewController'
